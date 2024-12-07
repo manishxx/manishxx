@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @manishxx
-- 👀 I’m interested in iOS app development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter projects
-- 📫 How to reach me ...
+# 👋 Hi, I'm Manish Pandey
 
-<!---
-manishxx/manishxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Node.js | Backend Developer | Full-Stack Web Solutions
+
+### 🚀 Professional Focus
+- 🔧 Specialized in Node.js and Express.js backend development
+- 🌐 Building scalable, efficient server-side applications
+- 🔒 Expert in API design, security, and performance optimization
+
+### 🛠️ Tech Stack
+- **Backend:** Node.js, Express.js, NestJS, TypeScript
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Cloud & DevOps:** AWS, Docker, Nginx
+- **Frontend:** React.js, Next.js
+
+### 🌱 Currently Exploring
+- Advanced microservices architecture
+- Serverless computing with AWS Lambda
+- AI-driven backend solutions
+- Performance optimization techniques
+
+### 📫 Connect With Me
+- **LinkedIn:** [Manish Pandey](https://www.linkedin.com/in/manish-pandey0987/)
+- **Email:** mpmanish2001@gmail.com
+- **Portfolio:** [GitHub Projects](https://github.com/manishxx)
